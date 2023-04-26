@@ -1,0 +1,7 @@
+p {
+    color: red;
+}
+
+img[src="assets/lana-did-you-know-alt.jpg"] {
+    width: 250px;
+}
